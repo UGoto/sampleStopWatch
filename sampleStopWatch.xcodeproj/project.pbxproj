@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					BADDF1E71F35BD88001D4B6B = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 3NDT2CQJNV;
 						ProvisioningStyle = Automatic;
 					};
 					BADDF1FB1F35BD89001D4B6B = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3NDT2CQJNV;
 				INFOPLIST_FILE = sampleStopWatch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yujiyamamoto.sampleStopWatch;
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3NDT2CQJNV;
 				INFOPLIST_FILE = sampleStopWatch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yujiyamamoto.sampleStopWatch;
